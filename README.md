@@ -18,6 +18,7 @@ a strong password to prevent data breaches. The requirement
 includes a password longer than 8 characters, a capital letter, a
 number, and a special character. An example of this password
 would be: iLike2Code!
+
 INSIGHT EXPLANATION
 - - - - - - - - - - - -
 - [1] Quarterly Sales Data Information: used to find sales and
