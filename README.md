@@ -1,6 +1,6 @@
 # Office_Solutions
 
-GENERAL USAGE NOTES
+## General Usage Notes
 - - - - - - - - - - -
 - To properly run the code, execute the Main.py file within the
 same folder as the other attached python code files
@@ -19,7 +19,7 @@ includes a password longer than 8 characters, a capital letter, a
 number, and a special character. An example of this password
 would be: iLike2Code!
 
-INSIGHT EXPLANATION
+## Insight Explanation
 - - - - - - - - - - - -
 - [1] Quarterly Sales Data Information: used to find sales and
 profit trends between seasonal quarters across a 4 year span.
